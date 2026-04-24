@@ -1,0 +1,6 @@
+1. Watch Window
+2. Trace
+3. Cross Reference
+4. Breakpoint
+	1. Toggle Breakpoint (CPU Stop there)
+	2. Step Over (Execute next instruction according to logic)
